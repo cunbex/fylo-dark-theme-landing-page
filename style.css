@@ -150,6 +150,9 @@ main {
   color: white;
   background: linear-gradient(to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
 }
+.top-sec-head button:hover {
+  cursor: pointer;
+}
 @media (min-width: 360px) {
   .top-sec-head h1 {
     font-size: 14px;
